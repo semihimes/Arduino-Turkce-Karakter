@@ -5,7 +5,7 @@
  * işlev gömülmüştür. Bu karakterleri "seamless" şekilde kullanabilmek için
  * PrintTr.cpp'ye write() ve print() işlevlerinde gerekli düzenleme yapılmıştır.
  * bu değişiklik pratikte kullanılmayan bazı sembollerin kullanılmasını engeller.
- * Semih Saçı
+ * Semih
  */
 #include "LiquidCrystalTr.h"
 
