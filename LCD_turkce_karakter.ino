@@ -30,7 +30,8 @@ void loop()
   lcd.print("Karakterler");
   lcd.setCursor(0,1);
   lcd.print("ıİöÖüÜğĞşŞ");
-  delay(3000);lcd.clear();
+  delay(3000);
+  lcd.clear();
   lcd.print(F("Flash Makrosuyla"));
   lcd.setCursor(0,1);
   lcd.print(F("ıİöÖüÜğĞşŞ"));
