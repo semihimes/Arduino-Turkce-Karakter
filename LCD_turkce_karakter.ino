@@ -14,8 +14,8 @@
 
 
 
-//LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
-LiquidCrystal lcd(0,1,2,3,4,5);
+const int rs = 0, en = 1, d4 = 2, d5 = 3, d6 = 4, d7 = 5;
+LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
 void setup() 
 {
