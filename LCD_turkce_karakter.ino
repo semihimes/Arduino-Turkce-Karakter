@@ -27,7 +27,7 @@ void setup()
 void loop() 
 {
   lcd.clear();
-  lcd.print("Karakter");
+  lcd.print("Karakterler");
   lcd.setCursor(0,1);
   lcd.print("ıİöÖüÜğĞşŞ");
   delay(3000);lcd.clear();
