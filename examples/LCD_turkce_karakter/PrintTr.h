@@ -17,8 +17,8 @@
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-#ifndef Print_h
-#define Print_h
+#ifndef PrintTr_h
+#define PrintTr_h
 
 #include <inttypes.h>
 #include <stdio.h> // for size_t
