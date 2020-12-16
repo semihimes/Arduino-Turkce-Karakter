@@ -1,5 +1,5 @@
-#ifndef LiquidCrystal_h
-#define LiquidCrystal_h
+#ifndef LiquidCrystalTr_h
+#define LiquidCrystalTr_h
 
 #include <inttypes.h>
 #include "PrintTr.h"
