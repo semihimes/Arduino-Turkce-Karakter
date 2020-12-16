@@ -7,7 +7,7 @@
  * bu değişiklik pratikte kullanılmayan bazı sembollerin kullanılmasını engeller.
  * Semih
  */
-#include "LiquidCrystalTr.h"
+#include <LiquidCrystalTr.h>
 
 #include <string.h>
 #include <inttypes.h>
