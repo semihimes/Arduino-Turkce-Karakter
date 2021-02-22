@@ -9,15 +9,15 @@ Arduino IDE 1.8.12 denenmiştir.
 Orjinal kütüphaneye eklenen kodlar ve işlevleri aşağıdaki gibidir
 
   LiquidCrystalTr.cpp
-    1. satır :  #include "LiquidCrystalTr.h" 
+    1. satır :  #include "LiquidCrystalTr.h".
     168-183 aralığı satırlar: özel karakterler tanımlamaları.
     
-  LiquidCrystalTr.h
-    1-2. satırlar tanımlama
+  LiquidCrystalTr.h.
+    1-2. satırlar tanımlama.
     5. satır : #include "PrintTr.h" değiştirilmiş "Print.h" kütüphanesini tanımlama
 
   PrintTr.cpp
-    31. satır: #include "PrintTr.h" 
+    31. satır: #include "PrintTr.h".
     51-72 aralığı satırlar Türkçe karakteri tespit eder ve yerine ilgili, uygun karakteri gönderir.
     84-112 aralığı satırlar Flash makrosu için Türkçe karakteri tespit eder ve yerine ilgili, uygun karakteri gönderir.
     
